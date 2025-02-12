@@ -8,7 +8,7 @@ class Gos extends Animal{
     }
 
     public function makeSound(){
-        return $this->guau;
+        return "Bup Bup!";
     }
 }
 ?>

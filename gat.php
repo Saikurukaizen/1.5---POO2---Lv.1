@@ -8,7 +8,7 @@ class Gat extends Animal{
     }
 
     public function makeSound(){
-        return $this->miau;
+        return "Meu!";
     }
 }
 
